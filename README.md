@@ -1,3 +1,3 @@
 # freecodecamp-tribute
 this is a juicewrld tribute!
-hope ya like ite;)
+hope ya like it;)
